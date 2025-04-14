@@ -1,1 +1,1 @@
-# Nova Act MCP Server
+# Resy MCP Server
